@@ -4,23 +4,23 @@ Part I - Regex Golf
 
 golf_01
 
-Regex command: 
-No. of characters: 
+Regex command: grep -E '\?$' golf_01
+No. of characters: 3
 
 golf_02
 
-Regex command: 
-No. of characters: 
+Regex command: grep -E '[a-z]' golf_02
+No. of characters: 5
 
 golf_03
 
-Regex command: 
-No. of characters: 
+Regex command: grep -E 'm.s' golf_03
+No. of characters: 3
 
 golf_04
 
-Regex command: 
-No. of characters: 
+Regex command: grep -E ' [P-Z]' golf_04
+No. of characters: 6
 
 golf_05
 
